@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **LarisaKukarskaya/LarisaKukarskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="left">Hi! I'm <a href="https://github.com/LarisaKukarskaya/" target="_blank">@LarisaKukarskaya </a>Larisa! 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="left">I'm a Python developer.</h3>
+<h3 aling="left">Programming languages and skills: Python, Django, FastAPI, Django Rest Framework, Асинхронное программирование, Docker, Docker-compose, PostgreSQL, Redis, SQLAlchemy, Алгоритмы, Nginx, Djoser, JWT, HTML, CSS, Bootstrap, Unittest.</h3>
