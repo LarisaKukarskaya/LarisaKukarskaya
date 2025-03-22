@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h4 aling="left">Programming languages and skills: Python, Django, FastAPI, Django Rest Framework, Asynchronous programming, Docker, Docker-compose, PostgreSQL, Redis, SQLAlchemy, Algorithms, Nginx, Djoser, JWT, HTML, CSS, PHP, YAML, Bootstrap, Unittest, FunC, VBA.</h4>
-<h4>I love learning new things and technologies.</h4>
